@@ -1,4 +1,4 @@
-# velos_parkings
+# USA Breweries API
 
 ## Project setup
 ```
