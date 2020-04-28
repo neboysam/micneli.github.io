@@ -1,6 +1,6 @@
 # micneli.github.io
 
-This project has been done in Vue JS framework by using the Leaflet JS library.
+This project has been done in the Vue JS framework by using the Leaflet JS library.
 
 It displays a list of breweries in the USA, narrowed down to Arizona as there are a significant number of them.
 
